@@ -1,5 +1,5 @@
 ## Hi there I'm Surjadeep (Zoro) 👋
-```text
+
   ┌───┐   Wet Lab Biologist | NGN2 iPSCs & Neuro-Gut Axis
   │   │   "I’m going to be the world’s greatest swordsman!" — Roronoa Zoro
   └───┘   Currently learning to code & bridging biology with computational tools.
@@ -31,11 +31,13 @@
 
 ---
 
+
 ### ⚔️ Zoro's Training Grounds (Learning Metrics)
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zoro-king-of-hell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zoro-king-of-hell&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zoro-king-of%20-hell&theme=tokyonight&hide_border=true&ring=2E8B57&fire=2E8B57&currStreakLabel=2E8B57" width="58%" alt="Coding Streak" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGIyM2U2OTM2MGI2OGI2YzA5MDgzZTY4YjI3MDIwNWMyYzA2YmY2YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/4OV1bXi8475yE/giphy.gif" width="38%" alt="Zoro Training" style="border-radius: 8px;" />
 </p>
 
 ---
@@ -43,7 +45,7 @@
 ### 🏴‍☠️ One Piece Corner
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/gist/assets/zoro-banner.gif" alt="Roronoa Zoro" width="100%" style="border-radius: 8px;](https://screenrant.com/one-piece-anime-best-zoro-moments-list/)" />
+  <img src="https://static0.srcdn.com/wordpress/wp-content/uploads/2023/05/onepiece1062zoro.jpg?q=70&fit=crop&w=1376&h=946&dpr=1" alt="Roronoa Zoro" width="100%" style="border-radius: 8px;](https://screenrant.com/one-piece-anime-best-zoro-moments-list/)" />
 </p>
 
 > *"When the world pushes you around, you've just got to stand up and push back."* — **Roronoa Zoro**
