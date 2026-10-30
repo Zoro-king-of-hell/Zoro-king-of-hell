@@ -1,8 +1,8 @@
 ## Hi there I'm Surjadeep (Zoro) 👋
 
-  ┌───┐   Wet Lab Biologist |  Gut-Brain Axis
+     Wet Lab Biologist |  Gut-Brain Axis
      "I’m going to be the world’s greatest swordsman!" — Roronoa Zoro
-  └───┘   Currently learning to code & bridging biology with computational tools.
+    Currently learning to code & bridging biology with computational tools.
 
 ---
 
