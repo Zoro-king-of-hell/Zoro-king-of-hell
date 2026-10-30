@@ -1,6 +1,6 @@
 ## Hi there I'm Surjadeep (Zoro) 👋
 
-  ┌───┐   Wet Lab Biologist | NGN2 iPSCs & Neuro-Gut Axis
+  ┌───┐   Wet Lab Biologist |  Gut-Brain Axis
   │   │   "I’m going to be the world’s greatest swordsman!" — Roronoa Zoro
   └───┘   Currently learning to code & bridging biology with computational tools.
 
@@ -8,7 +8,7 @@
 
 ### 🧬 About Me
 
-* 🔬 **Primary Focus**: Wet lab researcher specializing in **stem cell models (NGN2 iPSCs)**, **organoids**, and **neuro-gut axis barrier mechanics**.
+* 🔬 **Primary Focus**: Wet lab researcher specializing in **stem cell models**, **organoids**, and **gut-brain axis barrier mechanics**.
 * 💻 **Coding Journey**: Currently building my programming toolkit in **Python** to analyze experimental datasets, model biological pipelines, and automate structural biology workflows.
 * ⚔️ **Anime Enthusiast**: Big fan of *One Piece* — lost on the path to master both wet-lab assays and computational biology (Zoro style 🧭).
 
